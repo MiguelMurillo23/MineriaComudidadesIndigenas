@@ -19,7 +19,8 @@ Sitio web del ITT: [https://www.tijuana.tecnm.mx/](https://www.tijuana.tecnm.mx/
 
 
 
-Minería de Datos en Inteligencia Artificial
+Minería de Datos en Inteligencia Artificial.
+
 La minería de datos es una disciplina que se encuentra dentro del campo de la Inteligencia Artificial (IA) y se enfoca en descubrir patrones, relaciones y conocimientos útiles a partir de conjuntos de datos grandes y complejos. Es una herramienta fundamental en el proceso de análisis y toma de decisiones basado en datos.
 
 En el contexto de la IA, la minería de datos permite extraer información valiosa de grandes cantidades de datos, con el objetivo de identificar patrones ocultos, tendencias, correlaciones y reglas subyacentes. Estos conocimientos pueden ser utilizados para tomar decisiones informadas, predecir resultados futuros y mejorar el rendimiento de los sistemas inteligentes.
