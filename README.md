@@ -161,7 +161,7 @@ En este repositorio también se incluyen enlaces y otros recursos que pueden ser
 
 - [[Enlace 1](https://sic.cultura.gob.mx/lista.php?table=grupo_etnico&estado_id=2&municipio_id=-1)](Comunidades Indigenas en Baja California): Descripción o información adicional sobre lascomunidades indígenas.
 - [[Enlace 2](https://www.sas.com/es_mx/insights/analytics/data-mining.html#:~:text=La%20miner%C3%ADa%20de%20datos%20es,clientes%2C%20reducir%20riesgos%20y%20m%C3%A1s.)](Mineria de datos): Recursos adicionales sobre minería de datos y análisis de datos en general.
-- [Enlace 3](enlace3): Documentación relacionada con el uso de Python para el análisis de datos.
+- [[Enlace 3](https://udeka.es/blog/tecnicas-de-data-mining/)](Data Mining Python): Documentación relacionada con el uso de Python para el análisis de datos.
 
 ¡Agradezco tu interés en este proyecto sobre las comunidades indígenas en Baja California!
 
