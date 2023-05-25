@@ -1,0 +1,4 @@
+Kumiai,4000,Ensenada;Tecate,kumiai,caza;pesca
+Cucapa,1500,Mexicali,cucapa,agricultura;pesca
+Paipai,1500,Ensenada,paipai,caza;agricultura
+Kiliwa,50,SanPedroMartir,kiliwa,caza;pesca
