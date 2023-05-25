@@ -159,7 +159,7 @@ Este repositorio contiene el código en Python y el archivo `.txt` que se utiliz
 
 En este repositorio también se incluyen enlaces y otros recursos que pueden ser útiles para el desarrollo de este proyecto. A continuación, se presentan algunos de ellos:
 
-- [Enlace 1](enlace1): Descripción o información adicional sobre el análisis de comunidades indígenas.
+- [[Enlace 1](https://sic.cultura.gob.mx/lista.php?table=grupo_etnico&estado_id=2&municipio_id=-1)](enlace1): Descripción o información adicional sobre el análisis de comunidades indígenas.
 - [Enlace 2](enlace2): Recursos adicionales sobre minería de datos y análisis de datos en general.
 - [Enlace 3](enlace3): Documentación relacionada con el uso de Python para el análisis de datos.
 
