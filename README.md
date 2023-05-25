@@ -31,7 +31,7 @@ Algunas de las técnicas comunes utilizadas en la minería de datos en IA incluy
 
 En resumen, la minería de datos en IA es una herramienta poderosa para descubrir información valiosa y conocimientos a partir de grandes conjuntos de datos, brindando la capacidad de realizar análisis profundos y tomar decisiones más inteligentes y fundamentadas.
 
-# Tipos de Minería de Datos
+## Tipos de Minería de Datos
 
 En el campo de la minería de datos, se pueden utilizar diferentes técnicas y enfoques para extraer información valiosa de los conjuntos de datos. A continuación, se presentan algunos de los principales tipos de minería de datos:
 
