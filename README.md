@@ -119,7 +119,7 @@ Para obtener más detalles sobre cada comunidad, consulta los archivos correspon
 
 ¡Agradezco tu interés en aprender sobre las comunidades indígenas de Baja California!
 
-# Ventajas de utilizar Minería de Datos para Analizar las Comunidades Indígenas en Baja California
+## ¿Por que Utilizamos esta tecnica?
 
 La aplicación de la minería de datos en el análisis de las comunidades indígenas en Baja California puede ofrecer varias ventajas significativas:
 
