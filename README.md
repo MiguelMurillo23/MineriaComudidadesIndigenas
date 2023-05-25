@@ -32,20 +32,24 @@ Algunas de las técnicas comunes utilizadas en la minería de datos en IA incluy
 En resumen, la minería de datos en IA es una herramienta poderosa para descubrir información valiosa y conocimientos a partir de grandes conjuntos de datos, brindando la capacidad de realizar análisis profundos y tomar decisiones más inteligentes y fundamentadas.
 
 
-### Comunidades indigenas en Baja California.
-Kumiai (Kumeyaay):
-Población: Se estima que hay alrededor de 4,000 personas pertenecientes a la comunidad Kumiai en Baja California.
-Región: Principalmente se encuentran en el norte de Baja California, cerca de la frontera con Estados Unidos, en municipios como Ensenada, Tecate y Mexicali.
-Idioma: El idioma Kumiai, parte de la familia yumana de lenguas indígenas, es hablado por algunos miembros de la comunidad. Sin embargo, el número de hablantes es reducido y se considera en riesgo de extinción.
-Cultura y tradiciones: Los Kumiai tienen una rica herencia cultural. Sus tradiciones incluyen danzas, música, arte y artesanía, como la creación de cestas y cerámica. También practican la medicina tradicional y mantienen un profundo conocimiento de su entorno natural.
-Cucapá (Cocopah):
-Población: Se estima que la población de la comunidad Cucapá en Baja California es de alrededor de 1,500 personas.
-Región: Se ubican en la región norte de Baja California, específicamente cerca del delta del Río Colorado, en municipios como Mexicali.
-Idioma: El idioma cucapá, también parte de la familia yumana, es hablado por algunos miembros de la comunidad, aunque su número ha disminuido significativamente.
-Cultura y tradiciones: Los Cucapá tienen una estrecha relación con el río y su entorno. Su cultura se basa en la pesca, la caza, la recolección de plantas y la artesanía. La canasta de carrizo es una de sus creaciones más reconocidas. También tienen festivales y ceremonias tradicionales, como la Fiesta del Sol y la Fiesta del Pescado.
-Pai Pai:
-Población: Se estima que la población de la comunidad Pai Pai es de alrededor de 1,500 personas.
-Región: Se encuentran en la región central de Baja California, en municipios como Ensenada.
-Idioma: El idioma pai pai, parte de la familia yumana, es hablado por algunos miembros de la comunidad, aunque también enfrenta el riesgo de extinción.
-Cultura y tradiciones: Los Pai Pai tienen una rica tradición cultural que se refleja en su música, danzas y artesanía, como la cestería y la cerámica. Son conocidos por su conocimiento profundo de las plantas medicinales y su conexión espiritual con la naturaleza.
-Es importante destacar que estas comunidades indígenas han enfrentado desafíos históricos en cuanto a la preservación de su identidad cultural y sus derechos territoriales. Sin embargo, han mantenido su rica herencia cultural y han luchado por el reconocimiento y el respeto a su forma de vida tradicional.
+Comunidades Indígenas en Baja California
+Este repositorio tiene como objetivo proporcionar información sobre las comunidades indígenas en Baja California, destacando su importancia cultural y promoviendo la conciencia sobre su herencia ancestral.
+
+Kumiai (Kumeyaay)
+Población: Aproximadamente 4,000 personas.
+Región: Principalmente en el norte de Baja California, cerca de la frontera con Estados Unidos, en municipios como Ensenada, Tecate y Mexicali.
+Idioma: Kumiai, perteneciente a la familia yumana de lenguas indígenas.
+Cultura y tradiciones: Los Kumiai tienen una rica herencia cultural que incluye danzas, música, arte y artesanía. Practican la medicina tradicional y poseen un profundo conocimiento de su entorno natural.
+Cucapá (Cocopah)
+Población: Aproximadamente 1,500 personas.
+Región: En la región norte de Baja California, cerca del delta del Río Colorado, en municipios como Mexicali.
+Idioma: Cucapá, perteneciente a la familia yumana de lenguas indígenas.
+Cultura y tradiciones: Los Cucapá tienen una estrecha relación con el río y su entorno. Su cultura se basa en la pesca, la caza, la recolección de plantas y la artesanía. Celebran festivales y ceremonias tradicionales.
+Pai Pai
+Población: Aproximadamente 1,500 personas.
+Región: En la región central de Baja California, en municipios como Ensenada.
+Idioma: Pai Pai, perteneciente a la familia yumana de lenguas indígenas.
+Cultura y tradiciones: Los Pai Pai tienen una rica tradición cultural, que se refleja en su música, danzas y artesanía. Además, poseen un profundo conocimiento de las plantas medicinales y una conexión espiritual con la naturaleza.
+Este repositorio busca resaltar la importancia de estas comunidades indígenas y fomentar el respeto hacia su cultura y tradiciones. La diversidad y riqueza de las comunidades indígenas en Baja California son un tesoro invaluable que debemos valorar y preservar.
+
+
