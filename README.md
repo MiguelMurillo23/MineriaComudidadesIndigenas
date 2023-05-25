@@ -31,8 +31,36 @@ Algunas de las técnicas comunes utilizadas en la minería de datos en IA incluy
 
 En resumen, la minería de datos en IA es una herramienta poderosa para descubrir información valiosa y conocimientos a partir de grandes conjuntos de datos, brindando la capacidad de realizar análisis profundos y tomar decisiones más inteligentes y fundamentadas.
 
+# Tipos de Minería de Datos
 
-# Comunidades Indígenas en Baja California
+En el campo de la minería de datos, se pueden utilizar diferentes técnicas y enfoques para extraer información valiosa de los conjuntos de datos. A continuación, se presentan algunos de los principales tipos de minería de datos:
+
+## 1. Minería de Datos Descriptiva
+
+La minería de datos descriptiva se centra en descubrir patrones, tendencias y características presentes en los datos. Se utiliza para resumir y comprender la estructura de los datos sin necesidad de realizar predicciones o inferencias. Algunas técnicas utilizadas en la minería de datos descriptiva son la visualización de datos, la estadística descriptiva y el análisis de frecuencia.
+
+## 2. Minería de Datos Predictiva
+
+La minería de datos predictiva se enfoca en predecir o clasificar valores desconocidos o futuros basándose en patrones y relaciones identificadas en los datos históricos. Se utilizan técnicas de aprendizaje automático, como algoritmos de regresión, árboles de decisión y redes neuronales, para construir modelos predictivos que pueden ser aplicados a nuevos datos para realizar predicciones.
+
+## 3. Minería de Datos de Asociación
+
+La minería de datos de asociación se utiliza para descubrir relaciones interesantes y patrones de co-ocurrencia en los datos. Se centra en encontrar asociaciones entre diferentes elementos o eventos en grandes conjuntos de datos. Un ejemplo común es el análisis de mercado para identificar productos que se compran juntos con frecuencia, lo que puede ayudar en la planificación de estrategias de ventas y marketing.
+
+## 4. Minería de Datos de Agrupamiento
+
+La minería de datos de agrupamiento, también conocida como clustering, se utiliza para agrupar objetos o registros similares en categorías o grupos. Se basa en la similitud entre los datos y busca identificar estructuras intrínsecas en los conjuntos de datos sin etiquetar. El clustering se utiliza en diversas áreas, como segmentación de clientes, análisis de redes sociales y reconocimiento de patrones.
+
+## 5. Minería de Datos de Anomalías
+
+La minería de datos de anomalías, también conocida como detección de anomalías, se utiliza para identificar observaciones o patrones inusuales o atípicos en los datos. Es útil para detectar fraudes, errores en datos y comportamientos anormales en diversos campos, como seguridad informática, detección de fraudes financieros y monitorización de sistemas.
+
+Estos son solo algunos de los tipos de minería de datos utilizados en el análisis de datos. Cada uno de ellos tiene sus propias técnicas y aplicaciones específicas, y la elección del tipo de minería de datos depende del objetivo y naturaleza de los datos analizados.
+
+
+
+
+## Comunidades Indígenas en Baja California
 
 Este repositorio contiene información sobre las comunidades indígenas en Baja California.
 
