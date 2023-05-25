@@ -145,6 +145,8 @@ La minería de datos permite el monitoreo y la evaluación de programas y polít
 
 La minería de datos, cuando se utiliza de manera ética y respetuosa, puede ser una valiosa herramienta para comprender y abordar las necesidades y desafíos específicos de las comunidades indígenas en Baja California.
 
+## Conclusiones y Resultados.
+![image](https://github.com/MiguelMurillo23/MineriaComudidadesIndigenas/assets/43195943/ea90cc9f-716d-4cf7-ab5b-aa802697e67c)
 
 
 
