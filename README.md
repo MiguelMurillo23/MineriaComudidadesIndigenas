@@ -152,8 +152,8 @@ Este repositorio contiene el código en Python y el archivo `.txt` que se utiliz
 
 ## Contenido del Repositorio
 
-- `codigo.py`: Este archivo contiene el código en Python utilizado para el análisis de los datos.
-- `informacion.txt`: En este archivo se encuentra la información recolectada sobre las comunidades indígenas en Baja California, en formato de texto plano.
+- `mineria.py`: Este archivo contiene el código en Python utilizado para el análisis de los datos.
+- `comunidades_indigenas.txt`: En este archivo se encuentra la información recolectada sobre las comunidades indígenas en Baja California, en formato de texto plano.
 
 ## Recursos Adicionales
 
