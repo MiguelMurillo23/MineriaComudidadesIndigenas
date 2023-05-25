@@ -146,6 +146,26 @@ La minería de datos permite el monitoreo y la evaluación de programas y polít
 La minería de datos, cuando se utiliza de manera ética y respetuosa, puede ser una valiosa herramienta para comprender y abordar las necesidades y desafíos específicos de las comunidades indígenas en Baja California.
 
 ## Conclusiones y Resultados.
+# Análisis de Comunidades Indígenas en Baja California
+
+Este repositorio contiene el código en Python y el archivo `.txt` que se utilizó para analizar la información disponible sobre las comunidades indígenas en Baja California. Debido a que la información recopilada no era muy amplia, no fue posible encontrar más asociaciones o patrones significativos.
+
+## Contenido del Repositorio
+
+- `codigo.py`: Este archivo contiene el código en Python utilizado para el análisis de los datos.
+- `informacion.txt`: En este archivo se encuentra la información recolectada sobre las comunidades indígenas en Baja California, en formato de texto plano.
+
+## Recursos Adicionales
+
+En este repositorio también se incluyen enlaces y otros recursos que pueden ser útiles para el desarrollo de este proyecto. A continuación, se presentan algunos de ellos:
+
+- [Enlace 1](enlace1): Descripción o información adicional sobre el análisis de comunidades indígenas.
+- [Enlace 2](enlace2): Recursos adicionales sobre minería de datos y análisis de datos en general.
+- [Enlace 3](enlace3): Documentación relacionada con el uso de Python para el análisis de datos.
+
+¡Agradezco tu interés en este proyecto sobre las comunidades indígenas en Baja California!
+
+
 ![image](https://github.com/MiguelMurillo23/MineriaComudidadesIndigenas/assets/43195943/ea90cc9f-716d-4cf7-ab5b-aa802697e67c)
 
 
